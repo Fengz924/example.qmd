@@ -5,4 +5,7 @@ editor: visual
 ---
 
 ## Quarto
+<<<<<<< HEAD
 this is a file from new branch
+=======
+>>>>>>> testbranch
